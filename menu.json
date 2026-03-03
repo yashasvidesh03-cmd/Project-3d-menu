@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Biryani",
+    "price": 300,
+    "category": "Main Course",
+    "image": "https://source.unsplash.com/400x300/?biryani"
+  },
+  {
+    "id": 2,
+    "name": "Farm Fresh Pizza",
+    "price": 399,
+    "category": "Pizza",
+    "image": "https://source.unsplash.com/400x300/?pizza"
+  },
+  {
+    "id": 3,
+    "name": "Penne Pasta",
+    "price": 350,
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/400x300/?pasta"
+  }
+]
